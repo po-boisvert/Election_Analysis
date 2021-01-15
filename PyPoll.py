@@ -77,7 +77,7 @@ for candidate_name in candidate_votes:
 
 
     # Determine winning vote count and candidate
-    # Determine if the votes is greater than the winning count.
+    # Determine if the votes is greater than the winning count
     if (votes > winning_count) and (vote_percentage > winning_percentage):
         winning_count = votes
         winning_candidate = candidate_name
