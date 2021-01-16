@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Overview of Election Audit
 
 A Colorado Board of Elections has given you the following tasks to complete the election audits of recent local congressional election.
 
@@ -15,7 +15,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 - Data Source: election_results.csv (Resources folder)
 - Python (3.8.5) and the editor Visual Studio Code (1.52.1)
 
-## Summary
+## Election Audit Results
 
 ### Total votes
 
@@ -74,3 +74,9 @@ Again, to confirm additional information, we used the election_results.csv and w
 
 ### County conclusion
 The heawiest county across all is Denver (the largest turnout) with a total of 306,055 votes on a total of 369,711 votes. This tell us that if a candidate win Denver; he will mostly win the campaign.
+
+## Election Audit Summary
+
+
+There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
+
