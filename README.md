@@ -29,7 +29,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ### The candidate results
 
-Figure 1: votes summary by candidates
+#### Figure 1: votes summary by candidates
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/Statistics.png" width="300" />
 
@@ -55,7 +55,7 @@ This additional information will provide a deeper insight on where the major vot
 
 The election was done in three county (Jefferson, Denver and Arapahoe). Below is a comprehensive summary to understand the distribution of the votes accross the counties.
 
-Figure 2: votes summary by county
+#### Figure 2: votes summary by county
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/election_analysis.png" width="300" />
 
