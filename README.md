@@ -59,8 +59,10 @@ Figure 2: votes summary by county
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/election_analysis.png" width="300" />
 
+After considering the figure 2, we can conlude: 
+
 - Jefferson aggregated 10.5% of vote or 38,855 votes.
 - Denver aggregated 82.8% of vote or 306,055 votes.
 - Arapahoe aggregated 6.7% of vote or 24,801 votes.
 
-The figure 2 show the heawiest county across all is Denver (the largest turnout) with a total of 306,055 votes on a total of 369,711 votes. This tell us that if a candidate win Denver; he will mostly win the campaign.
+The heawiest county across all is Denver (the largest turnout) with a total of 306,055 votes on a total of 369,711 votes. This tell us that if a candidate win Denver; he will mostly win the campaign.
