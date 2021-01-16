@@ -41,6 +41,8 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ### Candidate conclusion
 
+By having only three counties and three candidates, the distribution give us aa clear outpout on the votes. By looking at the figure 1, we can determine that:
+
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
 ## Challenge Overview
@@ -51,7 +53,7 @@ With the previous information analyzed, the election commission has requested so
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
-This additional information will provide a deeper insight on where the major votes come and will tell us the weight of each county.
+This additional information will provide a deeper insight on where the votes come and will tell us the weight of each county.
 
 ## Challenge Summary
 
