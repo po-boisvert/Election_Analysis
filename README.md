@@ -55,6 +55,7 @@ With the previous information analyzed, the election commission has requested so
 The election was done in three county (Jefferson, Denver and Arapahoe). Below is a comprehensive summary to understand the distribution of the votes accross the counties.
 
 Figure 2: votes summary by county
+
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/election_analysis.png" width="300" />
 
 Summary by County
