@@ -28,8 +28,8 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 - Raymon Anthony Doane
 
 ### The vote result
-- Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
+The fist step of this analysis is to aggregate the votes by candidates in order to audit and confirm a winner.
 
 #### Figure 1: votes summary by candidates
 
