@@ -41,7 +41,7 @@ The fist step of this analysis is to aggregate the votes by candidates in order 
 
 ### Candidate conclusion
 
-By having only three counties and three candidates, the distribution give us aa clear outpout on the votes. The figure 1 let us know the winner which is: 
+By having only three counties and three candidates, the distribution give us a clear outpout on the votes. The figure 1 let us know the winner which is: 
 
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
