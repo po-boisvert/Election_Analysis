@@ -21,13 +21,13 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 - This election aggregated a total of 369,711 votes.
 
-### The candidates
+### The candidates list
 
 - Charles Casper Stockham
 - Diana DeGette
 - Raymon Anthony Doane
 
-### The candidate results
+### The vote result
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
 
