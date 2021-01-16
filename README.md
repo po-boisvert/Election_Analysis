@@ -13,7 +13,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 ## Ressources
 
 - Data Source: election_results.csv (Resources folder)
-- Python (3.8.5), Visual Studio Code (1.52.1)
+- Python (3.8.5) and the editor Visual Studio Code (1.52.1)
 
 ## Summary
 
@@ -38,6 +38,7 @@ The winner of this election was:
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
 ## Challenge Overview
+
 With the previous information analyzed, the election commission has requested some additional data to complete the audit:
 
 - The voter turnout for each county
@@ -45,4 +46,12 @@ With the previous information analyzed, the election commission has requested so
 - The county with the highest turnout
 
 ## Challenge Summary
+
 The election was done in three county (Jefferson, Denver and Arapahoe). Below is a comprehensive summary to understand the distribution of the votes accross the counties.
+
+Summary by County
+Jefferson aggregated 10.5% of vote or 38,855 votes.
+Denver aggregated 82.8% of vote or 306,055 votes.
+Arapahoe aggregated 6.7% of vote or 24,801 votes.
+
+The heawiest wight across all counties is Denver (the largest turnout) with a total of 306,055 votes on a total of 369,711 votes.
