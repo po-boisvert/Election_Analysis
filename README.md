@@ -29,7 +29,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ### The vote result
 
-The fist step of this analysis is to aggregate the votes by candidates in order to audit and confirm a winner.
+The first step of this analysis is to aggregate the votes by candidates in order to audit and confirm a winner.
 
 #### Figure 1: votes summary by candidates
 
