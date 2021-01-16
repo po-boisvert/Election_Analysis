@@ -17,7 +17,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ## Election Audit Results
 
-### Total votes
+### Total votes 
 
 - This election aggregated a total of 369,711 votes.
 
