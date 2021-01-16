@@ -31,7 +31,7 @@ The candidate results were:
 
 Figure 1: votes summary by candidates
 
-![alt text](https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/Statistics.png){:height="50%" width="50%"}
+![[alt text](https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/Statistics.png)|width=100px]]
 
 
 - Charles Casper Stockham received 23.0% of vote and 85,213 number of votes.
