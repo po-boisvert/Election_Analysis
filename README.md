@@ -17,17 +17,17 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ## Summary
 
-The analysis show taht:
+### Total votes
 
 - There we 369,711 votes cast in the election.
 
-The candidates were:
+### The candidates
 
 - Charles Casper Stockham
 - Diana DeGette
 - Raymon Anthony Doane
 
-The candidate results were:
+### The candidate results
 
 Figure 1: votes summary by candidates
 
