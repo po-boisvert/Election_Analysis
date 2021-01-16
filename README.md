@@ -19,7 +19,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ### Total votes
 
-- There we 369,711 votes cast in the election.
+- This election aggregated a total of 369,711 votes.
 
 ### The candidates
 
