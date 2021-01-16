@@ -37,7 +37,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 - Raymon Anthony Doane received 3.1% of vote and 11,606 number of votes.
 
-### The winner of this election
+### Candidate conclusion
 
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
@@ -65,4 +65,5 @@ After considering the figure 2, we can conlude:
 - Denver aggregated 82.8% of vote or 306,055 votes.
 - Arapahoe aggregated 6.7% of vote or 24,801 votes.
 
+### County conclusion
 The heawiest county across all is Denver (the largest turnout) with a total of 306,055 votes on a total of 369,711 votes. This tell us that if a candidate win Denver; he will mostly win the campaign.
