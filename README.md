@@ -35,6 +35,9 @@ The fist step of this analysis is to aggregate the votes by candidates in order 
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/Statistics.png" width="300" />
 
+From the election_results.csv, we aggregate row by row the Ballot ID and the candidate. Below is the summaary after having used the aggregation method:
+
+
 - Charles Casper Stockham received 23.0% of vote and 85,213 number of votes.
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 - Raymon Anthony Doane received 3.1% of vote and 11,606 number of votes.
@@ -63,7 +66,7 @@ The election was done in three county (Jefferson, Denver and Arapahoe). Below is
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/election_analysis.png" width="300" />
 
-After considering the figure 2, we can conlude: 
+Again, to confirm additional information, we used the election_results.csv and we aggregate row by row the Ballot ID and the county associated to it. After considering the figure 2, we can conlude: 
 
 - Jefferson aggregated 10.5% of vote or 38,855 votes.
 - Denver aggregated 82.8% of vote or 306,055 votes.
