@@ -41,7 +41,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ### Candidate conclusion
 
-By having only three counties and three candidates, the distribution give us aa clear outpout on the votes. By looking at the figure 1, we can determine that:
+By having only three counties and three candidates, the distribution give us aa clear outpout on the votes. The figure 1 let us know the winner which is: 
 
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
