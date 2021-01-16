@@ -29,6 +29,10 @@ The candidates were:
 
 The candidate results were:
 
+Figure 1: votes summary by candidates
+![alt text](https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/Statistics.png?raw=true)
+
+
 - Charles Casper Stockham received 23.0% of vote and 85,213 number of votes.
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 - Raymon Anthony Doane received 3.1% of vote and 11,606 number of votes.
