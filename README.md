@@ -21,7 +21,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 - This election aggregated a total of 369,711 votes.
 
-### The candidates list
+### The candidates list (total of 3)
 
 - Charles Casper Stockham
 - Diana DeGette
@@ -31,7 +31,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 The first step of this analysis is to aggregate the votes for each candidate in order to audit and confirm a winner (if possible).
 
-#### Figure 1: votes summary by candidates
+#### Figure 1: votes aggregated by candidates
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/Statistics.png" width="300" />
 
@@ -47,7 +47,7 @@ By having only three counties and three candidates, the distribution give us a c
 
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
-## Challenge Overview
+### Additional information (Challenge Overview)
 
 With the previous information analyzed, the election commission has requested some additional data to complete the audit:
 
@@ -55,13 +55,9 @@ With the previous information analyzed, the election commission has requested so
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
-This additional information will provide a deeper insight on where the votes come and will tell us the weight of each county.
-
-## Challenge Summary
-
 The election was done in three county (Jefferson, Denver and Arapahoe). Below is a comprehensive summary to understand the distribution of the votes accross the counties.
 
-#### Figure 2: votes summary by county
+#### Figure 2: votes aggregated by county
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/election_analysis.png" width="300" />
 
@@ -76,4 +72,5 @@ Again, to confirm additional information, we used the election_results.csv and w
 The heawiest county across all is Denver (the largest turnout) with a total of 306,055 votes on a total of 369,711 votes. This tell us that if a candidate win Denver; he will mostly win the campaign.
 
 ## Election Audit Summary
-This project provide an easy way to quickly determine the weight of each county when analysing an election and aggregate the vote for each candidate. Improvement could be a additional input at the beginning to manually type the candidate name and select the file that include the vote. Lastly, a script that generate the most popular candidate by county will give an insight on the county winner against the overall winner.
+
+This project provide an easy way to quickly determine the weight of each county when analysing an election and aggregate the vote for each candidate. Improvement could be (1) a additional input at the beginning to manually type the candidate name and select the data file that include the vote and (2) an additional script that generate the most popular candidate by county will give an insight on the county winner against the overall winner.
