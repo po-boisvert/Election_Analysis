@@ -35,7 +35,7 @@ The first step of this analysis is to aggregate the votes for each candidate in 
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/Statistics.png" width="300" />
 
-From the election_results.csv, we aggregate row by row the Ballot ID and the candidate. Below is the summaary after having used the aggregation method:
+From the election_results.csv, we aggregate row by row the Ballot ID and the candidate name. Below is the summary after having used the aggregation method:
 
 - Charles Casper Stockham received 23.0% of vote and 85,213 number of votes.
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
@@ -73,4 +73,4 @@ The heawiest county across all is Denver (the largest turnout) with a total of 3
 
 ## Election Audit Summary
 
-This project provide an easy way to quickly determine the weight of each county when analysing an election and aggregate the vote for each candidate. Improvement could be (1) a additional input at the beginning to manually type the candidate name and select the data file that include the vote and (2) an additional script that generate the most popular candidate by county will give an insight on the county winner against the overall winner.
+This project provide an easy way to quickly determine the weight of each county when analysing an election and aggregate the vote for each candidate. Improvement could be (1) a additional input at the beginning to manually type the candidate name and select the data file that include the vote and (2) an additional script that generate the most popular candidate by county will give an insight on the county winner against the overall winner (better insight if we have more than three counties).
