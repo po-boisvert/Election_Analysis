@@ -10,6 +10,8 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 - Calculate the percentage of votes each candidate won.
 - Determine the winner of the election based on popular vote.
 
+Seth requested to use repetition statements to retrieve data to complete the audit.
+
 ## Ressources
 
 - Data Source: election_results.csv (Resources folder)
