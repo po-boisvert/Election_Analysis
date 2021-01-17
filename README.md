@@ -17,7 +17,7 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ## Election Audit Results
 
-### Total votes 
+### Total votes
 
 - This election aggregated a total of 369,711 votes.
 
@@ -37,14 +37,13 @@ The first step of this analysis is to aggregate the votes for each candidate in 
 
 From the election_results.csv, we aggregate row by row the Ballot ID and the candidate. Below is the summaary after having used the aggregation method:
 
-
 - Charles Casper Stockham received 23.0% of vote and 85,213 number of votes.
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 - Raymon Anthony Doane received 3.1% of vote and 11,606 number of votes.
 
 ### Candidate conclusion
 
-By having only three counties and three candidates, the distribution give us a clear outpout on the votes. The figure 1 let us know the winner which is: 
+By having only three counties and three candidates, the distribution give us a clear outpout on the votes. The figure 1 let us know the winner which is:
 
 - Diana DeGette received 73.8% of vote and 272,892 number of votes.
 
@@ -66,17 +65,15 @@ The election was done in three county (Jefferson, Denver and Arapahoe). Below is
 
 <img src="https://github.com/poboisvert/Election_Analysis/blob/main/Ressources/election_analysis.png" width="300" />
 
-Again, to confirm additional information, we used the election_results.csv and we aggregate row by row the Ballot ID and the county associated to it. After considering the figure 2, we can conlude: 
+Again, to confirm additional information, we used the election_results.csv and we aggregate row by row the Ballot ID and the county associated to it. After considering the figure 2, we can conlude:
 
 - Jefferson aggregated 10.5% of vote or 38,855 votes.
 - Denver aggregated 82.8% of vote or 306,055 votes.
 - Arapahoe aggregated 6.7% of vote or 24,801 votes.
 
 ### County conclusion
+
 The heawiest county across all is Denver (the largest turnout) with a total of 306,055 votes on a total of 369,711 votes. This tell us that if a candidate win Denver; he will mostly win the campaign.
 
 ## Election Audit Summary
-
-
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
-
+This project provide an easy way to quickly determine the weight of each county when analysing an election and aggregate the vote for each candidate. Improvement could be a additional input at the beginning to manually type the candidate name and select the file that include the vote. Lastly, a script that generate the most popular candidate by county will give an insight on the county winner against the overall winner.
