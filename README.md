@@ -73,4 +73,4 @@ The heawiest county across all is Denver (the largest turnout) with a total of 3
 
 ## Election Audit Summary
 
-This project provide an easy way to quickly determine the weight of each county when analysing an election and aggregate the vote for each candidate. Improvement could be (1) a additional input at the beginning to manually type the candidate name and select the data file that include the vote and (2) an additional script that generate the most popular candidate by county will give an insight on the county winner against the overall winner (better insight if we have more than three counties).
+This project provide an easy way to quickly determine the weight of each county when analysing an election and aggregate the vote for each candidate. Improvement could be (1) an input at the beginning to manually type the candidate name and select the data file that include the vote and (2) an additional script that generate the most popular candidate by county will give an insight on the county winner against the overall winner (better insight if we have more than three counties).
