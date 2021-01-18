@@ -93,4 +93,4 @@ with open(file_to_save, "w") as txt_file:
 
     print(winning_candidate_summary)
 
-    txt_file.write(candidate_results)
+    txt_file.write(winning_candidate_summary)
