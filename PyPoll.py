@@ -89,6 +89,6 @@ with open(file_to_save, "w") as txt_file:
     #print(total_votes)  
     #print(candidate_options)
     #print(candidate_votes)
-    print(winning_candidate_summary)
+    #print(winning_candidate_summary)
     # Save the winning candidate's name to the text file.
     txt_file.write(winning_candidate_summary)
