@@ -61,7 +61,7 @@ The election was done in three county (Jefferson, Denver and Arapahoe). Below is
 
 #### Figure 2: votes aggregated by county
 
-<img src="https://github.com/poboisvert/Election_Analysis/blob/main/Resources/election_analysis.png" width="300" />
+<img src="https://github.com/poboisvert/Election_Analysis/blob/main/Resources/Statistics.png" width="300" />
 
 Again, to confirm additional information, we used the election_results.csv and we aggregate row by row the Ballot ID and the county associated to it. After considering the figure 2, we can conlude:
 
