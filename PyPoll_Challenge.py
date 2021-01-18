@@ -48,7 +48,6 @@ with open(file_to_load) as election_data:
 
     # Read the header
     header = next(reader)
-    #print(header)
 
     # For each row in the CSV file.
     for row in reader:
